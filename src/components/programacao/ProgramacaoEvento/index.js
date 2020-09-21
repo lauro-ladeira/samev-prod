@@ -30,7 +30,6 @@ const ProgramacaoEvento = () => {
     if (
       [
         "Maricy Apparício",
-        "Gustavo Cobucci",
         "Rafael Bombachi",
         "Laís Ângelo de Abreu",
         "Camila Utrera",
@@ -41,6 +40,9 @@ const ProgramacaoEvento = () => {
         "Carine Stefanello",
         "Ana Flávia Chizzotti",
         "A CONFIRMAR",
+        "Shara Regina",
+        "Welden Panziera",
+        "Amanda Neri"
       ].includes(p)
     ) {
       return setPalestranteActive("Aguarde informações!")

@@ -240,39 +240,6 @@
         ]
     },
     {
-        "nome": "Aline Félix",
-        "especialidade": "Médica Veterinária",
-        "descricao": [
-            {
-                "topico": "Possui graduação em Medicina Veterinária pela Universidade do Estado de Santa Catarina (2010), mestrado em Ciencia Animal pela Universidade do Estado de Santa Catarina (2013) e doutorado em Ciencia Animal pela Universidade do Estado de Santa Catarina (2017). Atualmente é professora adjunta da Universidade Federal de Santa Catarina nas áreas de Nutrição Animal e Produção de Suínos e Aves. Tem experiência nas áreas de Nutrição Animal e Produção de Monogástricos"
-            }
-        ],
-        "src": "../images/palestrantes/aline-felix.jpeg",
-        "palestras": [
-            {
-                "tema": "Avicultura moderna"
-            }
-        ]
-    },
-    {
-        "nome": "Amanda Neri",
-        "especialidade": "Médica Veterinária e Consultora Educampo Nestlé",
-        "descricao": [
-            {
-                "topico": "Médica veterinária, pela Universidade Federal de Viçosa, 2018;"
-            },
-            {
-                "topico": "Consultora Educampo Nestlé desde 2018."
-            }
-        ],
-        "src": "../images/palestrantes/amanda-neri.jpg",
-        "palestras": [
-            {
-                "tema": "Mercado de trabalho na indústria leiteira para recém formados"
-            }
-        ]
-    },
-    {
         "nome": "Fábio Fidelis",
         "especialidade": "Médico Veterinário e Empresário",
         "descricao": [
@@ -292,16 +259,7 @@
         "especialidade": "Médica Veterinária",
         "descricao": [
             {
-                "topico": "• Graduação em medicina veterinária na Universidade Federal da Bahia (2008-2013)"
-            },
-            {
-                "topico": "• Residência em clínica e cirurgia de ruminantes e equídeos na Universidade Federal de Viçosa (2014-2016);"
-            },
-            {
-                "topico": "• Mestrado em ciência animal com ênfase em obstetrícia e neonatologia equina na Universidade Federal de Pelotas (2017-2019);"
-            },
-            {
-                "topico": "• Responsável pela temporada de nascimentos de 2019 em haras de cavalos de salto na França. Atualmente, diretora técnica da Crescer Soluções em Obstetrícia, Neonatologia e Pediatria Equina e responsável pelo Setor de Perinatologia e Pediatria da Clínica do Rancho (Bahia)."
+                "topico": "Médica Veterinária formada na Universidade Federal da Bahia em 2013; residente em Clínica e Cirurgia de Equídeos e Ruminantes pela Universidade Federal de Viçosa, em 2016; mestra em Ciência Animal, com ênfase em obstetrícia e neonatologia equina pela Universidade Federal de Pelotas desde 2019; responsável pela temporada de nascimentos de 2019 em haras de cavalos de salto na França. Atual diretora técnica da Crescer Soluções em Obstetrícia, Neonatologia e Pediatria Equina e responsável pelo Setor de Perinatologia e Pediatria da Clínica do Rancho, na Bahia."
             }
         ],
         "src": "../images/palestrantes/fernanda-timbo.png",
@@ -346,19 +304,13 @@
         "especialidade": "Médica Veterinária",
         "descricao": [
             {
-                "topico": "• Maria Gazzinelli Neves, Médica Veterinária -  CRMV/MG 12597;"
-            },
-            {
-                "topico": "• D. Sc. em Zootecnia - Reprodução Animal - UFV;"
-            },
-            {
-                "topico": "• Proprietária do CEFEQUI- Centro de Equoeterapia e Formação Equestre/ Viçosa-MG."
+                "topico": "Médica Veterinária com doutorado em Reprodução Animal pelo Departamento de Zootecnia da Universidade Federal de Viçosa. Atual proprietária do Centro de Equoterapia e Formação Equestre – CEFEQUI, em Viçosa, Minas Gerais."
             }
         ],
         "src": "../images/palestrantes/maria-gazzinelli.jpg",
         "palestras": [
             {
-                "tema": "Inovações da Reprodução equina: o que há de novo no mercado?"
+                "tema": "Atualidades sobre o incremento da qualidade do sêmen equino: O que há de novo?"
             }
         ]
     },
@@ -367,22 +319,7 @@
         "especialidade": "Médica Veterinária",
         "descricao": [
             {
-                "topico": "• Graduada em Medicina Veterinária pela PUC-MG" 
-            },
-            {
-                "topico": "• Pós-graduada em Clínica e Cirurgia de Pequenos Animais pela Equalis;"
-            },
-            {
-                "topico": "• Pós-graduada em Oftalmologia de Pequenos Animais pela Anclivepa-SP;"
-            },
-            {
-                "topico": "• Professora de Oftalmologia de Pequenos Animais no CPT Cursos Presenciais;"
-            },
-            {
-                "topico": "• Mestranda UFMG com linha de pesquisa em Oftalmologia Veterinária;"
-            },
-            {
-                "topico": "• Atuação exclusiva na área de Oftalmologia Veterinária em Belo Horizonte e região."
+                "topico": "Graduada em Medicina Veterinária pela PUC – Minas; pós-graduanda em Clínica e Cirurgia de Pequenos Animais pela Equalis e em Oftalmologia de pequenos animais pela Anclivepa, em São Paulo; professora de Oftalmologia de Pequenos Animais no CPT Cursos Presenciais; mestranda na UFG com linha de pesquisa em Oftalmologia Veterinária. Atua como oftalmologista veterinária em Belo Horizonte." 
             }
         ],
         "src": "../images/palestrantes/michelle-gouvea.jpg",
@@ -397,25 +334,7 @@
         "especialidade": "Médico Veterinário",
         "descricao": [
             {
-                "topico": "• M.V formado pela UNESA;"
-            },
-            {
-                "topico": "• Residência no CRAS - Centro de Recuperação de animais silvestres da UNESA;"
-            },
-            {
-                "topico": "• Pós graduado em clínica e cirurgia de animais silvestres pelo Qualittas;"
-            },
-            {
-                "topico": "• Pós graduado em anestesiologia pela PAV;"
-            },
-            {
-                "topico": "• Pós graduando em farmacologia veterinária pelo Qualittas;"
-            },
-            {
-                "topico": "• Professor de pós graduação nas area de anestesiologia;"
-            },
-            {
-                "topico": "• Sócio proprietário do centro veterinário lagoa e da Clinica PROSIlvestres."
+                "topico": "Médico Veterinário formado pela UNESA; residência no Centro de Recuperação de Animais Silvestres da UNESA; pós-graduando em Clínica e Cirurgia de Animais Silvestres pela Qualittas; pós-graduado em Anestesiologia pela PAV; pós-graduando em Farmacologia Veterinária pela Qualittas. Atualmente é professor de pós-graduação em Anestesiologia e sócio-proprietário do Centro Veterinário Lagoa e da Clínica PROSilvestres."
             }
         ],
         "src": "../images/palestrantes/rafael-nudelman.jpg",
@@ -430,73 +349,13 @@
         "especialidade": "Médico Veterinário",
         "descricao": [
             {
-                "topico": "• Médico veterinário formado pela UFruralRJ;"
-            },
-            {
-                "topico": "• Doutorado com ênfase em anestesia regional pela UFruralRJ;"
-            },
-            {
-                "topico": "• Mestrado com ênfase em farmacologia pela UFruralRJ;"
-            },
-            {
-                "topico": "• Pós-graduado em Dor e Cuidados Paliativos pelo Instituto Albert Einstein;"
-            },
-            {
-                "topico": "• Autor do livro abordagem e tratamento da dor crônica em cães e gatos;"
-            },
-            {
-                "topico": "• Experiência de 15 anos no ensino da graduação e gestão acadêmica;"
-            },
-            {
-                "topico": "• Atualmente é Professor de Anestesiologia e Farmacologia da Universidade Federal do Acre;"
-            },
-            {
-                "topico": "• Diretor Científico dos Cursos de Anestesiologia do Instituto MelloVet;"
-            },
-            {
-                "topico": "• Co-fundador da Hypnos Anestesia Veterinária."
+                "topico": "Graduação, mestrado com ênfase em Farmacologia e doutorado com ênfase em Anestesia Regional pela UFRRJ; pós-graduando em Dor e Cuidados Paliativos pelo Instituto Albert Einstein; autor do livro “Abordagem e Tratamento da Dor Crônica em Cães e Gatos”; co-fundador da Hypnos Anestesia Veterinária. Atualmente é professor de Anestesiologia e Farmacologia da Universidade Federal do Acre e diretor científico dos Cursos de Anestesiologia do Instituto MelloVet."
             }
         ],
         "src": "../images/palestrantes/rodrigo-mencalha.jpg",
         "palestras": [
             {
                 "tema": "Bloqueios Analgésicos para Alívio da dor crônica"
-            }
-        ]
-    },
-    {
-        "nome": "Shara Regina",
-        "especialidade": "Médica Veterinária",
-        "descricao": [
-            {
-                "topico": "• Médica Veterinária pela UFV, 2002;"
-            },
-            {
-                "topico": "• Mestre em Ciências pela Fundação Oswaldo Cruz, 2009;"
-            },
-            {
-                "topico": "• Doutora pela Fundação Oswaldo Cruz, 2015. Atualmente é presidente e responsável técnica da ONG Meu Amigo Cão de Ipatinga, professora do Unileste MG e médica veterinária do Centro de Controle de Zoonoses de Ipatinga. Tem experiência na área de controle de Zoonoses, em especial a leishmaniose visceral e a esporotricose."
-            }
-        ],
-        "src": "../images/palestrantes/shara-regina.jpg",
-        "palestras": [
-            {
-                "tema": "Leishmaniose, Esporotricose e a atuação do médico veterinário no Centro de Controle de Zoonoses"
-            }
-        ]
-    },
-    {
-        "nome": "Welden Panziera",
-        "especialidade": "Médico Veterinário",
-        "descricao": [
-            {
-                "topico": "Possui graduação (2012) em medicina veterinária pela Universidade Federal de Santa Maria (UFSM), mestrado (2015) na área de Patologia Veterinária pelo Programa de Pós-Graduação em Medicina Veterinária (PPGMV/UFSM) pela mesma instituição e doutorado (2018) em Patologia Veterinária pelo Programa de Pós-graduação em Ciências Veterinárias da Universidade Federal do Rio Grande do Sul (PPGCV/UFRGS). Realizou pós-doutorado no Setor de Patologia Veterinária da UFRGS. Atualmente é professor adjunto da Faculdade de Veterinária da Universidade Federal do Rio Grande do Sul (FAVET-UFRGS), lotado no Departamento de Patologia Clínica Veterinária. Tem experiência em Medicina Veterinária, com ênfase em Toxicologia e Patologia Veterinária."
-            }
-        ],
-        "src": "../images/palestrantes/welden-panziera.jpg",
-        "palestras": [
-            {
-                "tema": "Toxicologia Veterinária"
             }
         ]
     }
