@@ -1,21 +1,20 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
+
+import Header from '../components/inicio/Header'
+import Sobre from '../components/inicio/Sobre'
+import Apoio from '../components/inicio/Apoio'
+import Palestrantes from "../components/inicio/Carousel/CarouselTest"
 
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Informações em breve.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+    <Header />
+    <Sobre />
+    <Palestrantes />
+    <Apoio />
   </Layout>
 )
 

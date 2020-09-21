@@ -1,0 +1,89 @@
+[
+    {
+        "modalidade": "Graduandos",
+        "tabela": [
+            {
+                "lote": "Lote Relâmpago",
+                "observacao": "(Vagas Limitadas)",
+                "data": "22/09 a 28/09",
+                "obs": "ou enquanto durarem os ingressos, podendo esgotar antes da data limite",
+                "preco": "R$11,00"
+            },
+            {
+                "lote": "Promocional",
+                "observacao": "(Vagas Limitadas)",
+                "data": "29/09 a 05/10",
+                "obs": "ou enquanto durarem os ingressos, podendo esgotar antes da data limite",
+                "preco": "R$16,00"
+            },
+            {
+                "lote": "1º Lote",
+                "observacao": "",
+                "data": "06/10 a 26/10",
+                "obs": "",
+                "preco": "R$25,00"
+            },
+            {
+                "lote": "2º Lote",
+                "observacao": "",
+                "data": "27/10 a 16/11",
+                "obs": "",
+                "preco": "R$34,00"
+            },
+            {
+                "lote": "3º Lote",
+                "observacao": "",
+                "data": "17/11 a 23/11",
+                "obs": "",
+                "preco": "R$40,00"
+            },
+            {
+                "lote": "Durante o evento",
+                "observacao": "",
+                "data": "24/11 a 28/11",
+                "obs": "",
+                "preco": "R$46,00"
+            }
+        ]
+    },
+    {
+        "modalidade": "Pós-Graduandos / Profissionais",
+        "tabela": [
+            {
+                "lote": "Promocional",
+                "observacao": "(Vagas Limitadas)",
+                "data": "29/09 a 05/10",
+                "obs": "ou enquanto durarem os ingressos, podendo esgotar antes da data limite",
+                "preco": "R$16,00"
+            },
+            {
+                "lote": "1º Lote",
+                "observacao": "",
+                "data": "06/10 a 26/10",
+                "obs": "",
+                "preco": "R$31,00"
+            },
+            {
+                "lote": "2º Lote",
+                "observacao": "",
+                "data": "27/10 a 16/11",
+                "obs": "",
+                "preco": "R$40,00"
+            },
+            {
+                "lote": "3º Lote",
+                "observacao": "",
+                "data": "17/11 a 23/11",
+                "obs": "",
+                "preco": "R$46,00"
+            },
+            {
+                "lote": "Durante o evento",
+                "observacao": "",
+                "data": "24/11 a 28/11",
+                "obs": "",
+                "preco": "R$51,00"
+            }
+        ]
+    }
+]

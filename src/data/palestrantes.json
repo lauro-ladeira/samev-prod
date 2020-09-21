@@ -1,0 +1,503 @@
+[
+    {
+        "nome": "Carla Bittar",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Formou-se em 1994 em Engenharia Agronômica pela ESALQ/USP; obteve seu Master of Science pela Universidade do Arizona em 1997 e concluiu o doutorado em Ciência Animal e Pastagens pela USP, em 2002; atualmente é professora de nutrição de ruminantes e metabolismo animal no Departamento de Zootecnia da ESALQ, USP."
+            }
+        ],
+        "src": "../images/palestrantes/Carla Bittar.JPG",
+        "palestras": [
+            {
+                "tema": "Colostragem: Como obter a máxima eficiência na transferência de imunidade passiva"
+            }
+        ]
+    },
+    {
+        "nome": "Cláudio Barros",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário pela Universidade Federal De Santa Maria, em 1969; PhD em Patologia Veterinária pela Colorado State University, em 1980; Pós-Doutorado pelo Instituto de Patologia Veterinária da Justus Liebig Universität, na Alemanha, em 1984; professor titular de Patologia Veterinária UFSM de 1971 a 2014; professor visitante da Universidade Federal do Mato Grosso do Sul, de 2014 a 2020. É membro Honorário do American College of Veterinary Pathologists (ACVP); membro emérito da Associação Brasileira de Patologia Veterinária (ABPV); membro do Colégio Brasileiro de Patologia Animal e Editor-chefe da Revista Brasileira de Pesquisa Veterinária. Recebeu o prêmio Paulo Dacorso Filho, edição 2016, concedido pelo Conselho Federal de Medicina Veterinária do Brasil."
+            }
+        ],
+        "src": "../images/palestrantes/Claudio Barros.jpg",
+        "palestras": [
+            {
+                "tema": "Afecções do sistema nervoso em animais de produção: Como proceder para o diagnóstico"
+            }
+        ]
+    },
+    {
+        "nome": "Júlia Pessoa",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária graduada pela PUC – Minas; especialização em Diagnóstico por Imagem pelo IBVET Jaguariúna; especialização em Fisiatria, Fisioterapia e Reabilitação Veterinária pelo Instituto Bioethicus – Botucatu; participou da comissão de organização do Congresso Brasileiro de Fisioterapia Veterinária em 2019. Atualmente trabalha como Médica Veterinária da empresa Vetsociety Fisiatria, Fisioterapia e Reabilitação Animal."
+            }
+        ],
+        "src": "../images/palestrantes/julia-pessoa.jpeg",
+        "palestras": [
+            {
+                "tema": "Fisioterapia em pequenos animais: Modalidades terapêuticas"
+            }
+        ]
+    },
+    {
+        "nome": "Murilo Charlier",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário formado pela UNESP; residência em Diagnóstico por Imagem e mestrado em Biotecnologia Animal pela UNESP, campus Botucatu; especialização em Docência Universitária pela Universidade de Uberaba. Atual proprietário da Complementare Medicina Veterinária."
+            }
+        ],
+        "src": "../images/palestrantes/Murilo Charlier.jpg",
+        "palestras": [
+            {
+                "tema": "Afecções Torácicas: Desafios e potenciais do diagnóstico por imagem"
+            }
+        ]
+    },
+    {
+        "nome": "Renata Arruda",
+        "especialidade": "",
+        "descricao": [
+            {
+                "topico": "Advogada especializada em defesa do profissional em processos éticos e consultoria preventiva em Direito Médico Veterinário, atuando como assessora jurídica na Fundação Getúlio Vargas."
+            }
+        ],
+        "src": "../images/palestrantes/Renata Arruda.jpg",
+        "palestras": [
+            {
+                "tema": "Importância do prontuário na prevenção jurídica do Médico Veterinário"
+            }
+        ]
+    },
+    {
+        "nome": "Renata Novais",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária graduada pela Universidade Federal Rural do Rio de Janeiro; residência em Dermatologia,  mestrado e doutorado pela mesma universidade; professora do curso de Medicina Veterinária na disciplina de clínica médica de caninos e felinos na Univeritas (RJ); professora do curso de pós-graduação em Dermatologia Equalis; autora do atlas de “Dermatologia em Cães e Gatos de A a Z”, e dos capítulos de Dermatologia do livro “A clínica”, ambos pela editora Medvep."
+            }
+        ],
+        "src": "../images/palestrantes/Renata Novais.jpg",
+        "palestras": [
+            {
+                "tema": "Desvendando os mistérios do prurido em felinos"
+            }
+        ]
+    },
+    {
+        "nome": "Tiago Facury",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Graduação em Medicina Veterinária pela Universidade Federal de Minas Gerais, em 2010; mestrado e doutorado em Ciência Animal pela Escola de Veterinária da UFMG, com doutorado sanduíche na Technical University of Denmark; foi professor na Universidade de Vila Velha e atualmente é professor na área de Clínica de Ruminantes e Medicina de Produção na UFMG."
+            }
+        ],
+        "src": "../images/palestrantes/Tiago Facury.JPG",
+        "palestras": [
+            {
+                "tema": "Afecções podais em bovinos: Da fazenda ao laboratório"
+            }
+        ]
+    },
+    {
+        "nome": "Alessandro Bijjeni",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Graduação em Medicina Veterinária pelo Centro Universitário das Faculdades Metropolitanas Unidas, em 2007; pós-graduado em Clínica Médica e Cirúrgica de Animais Silvestres pela Anclivepa, São Paulo. Atualmente é sócio proprietário da Exotics Pets Clínica Veterinária, professor e coordenador da pós-graduação de “Medicina de pets não convencionais” do CETAC."
+            }
+        ],
+        "src": "../images/palestrantes/Alessandro Bijjeni.png",
+        "palestras": [
+            {
+                "tema": "Animais Silvestres como pet no Brasil: Qual o cenário atual?"
+            }
+        ]
+    },
+    {
+        "nome": "Bruno Benetti",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário com residência em Cirurgia de Pequenos Animais pela Universidade Federal de Lavras; estágios em Traumatologia na Universidad de Murcia, na Espanha, e em Neurologia e Neurocirurgia em The Royal Veterinary College, em Londres, e na U.C. Davis da Califórnia; mestre e doutor em Ciência Animal, com ênfase em Neurocirurgia pela Universidade Federal de Minas Gerais; diplomado especialista em Cirurgia Veterinária pelo Colégio Brasileiro de Cirurgia e Anestesiologia Veterinária. Atualmente trabalha como professor adjunto de Clínica e Neurocirurgia Veterinária, é responsável pelo Serviço de Neurologia e Neurocirurgia Veterinária da Universidade Federal de Goiás. É diretor científico e sócio fundador da Associação Brasileira de Neurologia Veterinária; diretor científico do Colégio Brasileiro de Cirurgia e Anestesiologia Veterinária e presidente da Associação Latino-Americana de Neurologia Veterinária."
+            }
+        ],
+        "src": "../images/palestrantes/Bruno Benetti.jpg",
+        "palestras": [
+            {
+                "tema": "Cirurgias cranioencefálicas em cães e gatos: Qual a realidade do Brasil?"
+            }
+        ]
+    },
+    {
+        "nome": "Gustavo Parreiras",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Graduado e especialista em Medicina Felina, faz sua residência em Clínica Médica do Gato Doméstico pela Universidade Rural do Rio de Janeiro. Atualmente atende Clínica e Comportamento de gatos no Rio de Janeiro e é membro da Academia Brasileira de Clínica de Felinos."
+            }
+        ],
+        "src": "../images/palestrantes/Gustavo Parreiras.jpg",
+        "palestras": [
+            {
+                "tema": "Educação continuada para tutor em clínica de gatos: Quais os benefícios?"
+            }
+        ]
+    },
+    {
+        "nome": "Gustavo Cobucci",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico veterinário graduado pela Universidade Federal de Minas Gerais; residência em Clínica e Cirurgia de Cães e Gatos pela Universidade Federal de Viçosa; mestrado pela UFV; pós-graduação pelo Senac, em São Paulo; doutorado pela Universidade Federal de Lavras; pós-graduando em endocrinologia e metabologia pela Anclivepa, em São Paulo; professor titular da Univiçosa, em Viçosa, Minas Gerais."
+            }
+        ],
+        "src": "../images/palestrantes/Gustavo Cobucci.jpg",
+        "palestras": [
+            {
+                "tema": "Doenças endócrinas, um pouquinho de cada um"
+            }
+        ]
+    },
+    {
+        "nome": "Magna Coroa",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Graduação em Medicina Veterinária pela Universidade Federal da Bahia; mestrado em Zootecnia e doutorado em Medicina Veterinária pela Universidade Federal de Viçosa. Desde 2016 atua como docente do Centro Universitário de Viçosa (UNIVIÇOSA) ministrando a disciplina de Produção e Doenças de Caprinos e Ovinos e Microbiologia."
+            }
+        ],
+        "src": "../images/palestrantes/Magna Coroa.jpg",
+        "palestras": [
+            {
+                "tema": "Microbioma e biotecnologia na produção de caprinos"
+            }
+        ]
+    },
+    {
+        "nome": "Pat Rober",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária formada na UNIFAA, em 2000. Atual proprietária da agência Animais em Cena e sócia da agência Bichos Artistas. Concluiu cursos de comportamento animal e adestramento com profissionais conceituados, tanto no Brasil como no exterior, voltados para cães, aves e cursos de adestramento específicos para felinos."
+            }
+        ],
+        "src": "../images/palestrantes/Pat Rober.jpg",
+        "palestras": [
+            {
+                "tema": "Enriquecimento ambiental felino"
+            }
+        ]
+    },
+    {
+        "nome": "Vinícius Albernaz",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário pela PUC – PR; residência em Cirurgia de Pequenos Animais pela PUC – PR e pela UNESP; mestre em Biotecnologia animal pela UNESP. Atualmente trabalha como professor de Cirurgia e Oncologia Veterinária na UFPR."
+            }
+        ],
+        "src": "../images/palestrantes/vinicius.jpeg",
+        "palestras": [
+            {
+                "tema": "Principais neoplasias na rotina cirúrgica em cães"
+            }
+        ]
+    },
+    {
+        "nome": "Yasmin Martins",
+        "especialidade": "Psicóloga",
+        "descricao": [
+            {
+                "topico": "Psicóloga formada pela Univiçosa; especializada em Psicologia Clínica e Saúde Mental; atua como psicoterapeuta clínica desde março de 2018 e atualmente atende exclusivamente online; hipnoterapeuta e estudiosa de assuntos ligados à saúde nas relações, autoconhecimento e desenvolvimento pessoal"
+            }
+        ],
+        "src": "../images/palestrantes/yasmin.jpg",
+        "palestras": [
+            {
+                "tema": "Saúde mental dos estudantes"
+            }
+        ]
+    },
+    {
+        "nome": "Tays Araujo Camilo",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária e mestra em Ciências Veterinárias pela UFRRJ; pós-graduada pelo Laboratório de Diagnóstico de Doenças de Aves e Hemoparasitos. Atualmente está finalizando seu doutorado pela UFRRJ; é tutora da UnyEaD Educacional nas disciplinas Zoonoses Virais e Príons, Biossegurança de Laboratórios de Patologia Clínica Veterinária e Epidemiologia e Vigilância em Saúde; é professora substituta de Doenças de Aves da Universidade Federal de Viçosa."
+            }
+        ],
+        "src": "../images/palestrantes/tays.jpg",
+        "palestras": [
+            {
+                "tema": "As aves e a saúde pública"
+            }
+        ]
+    },
+    {
+        "nome": "Aline Félix",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Possui graduação em Medicina Veterinária pela Universidade do Estado de Santa Catarina (2010), mestrado em Ciencia Animal pela Universidade do Estado de Santa Catarina (2013) e doutorado em Ciencia Animal pela Universidade do Estado de Santa Catarina (2017). Atualmente é professora adjunta da Universidade Federal de Santa Catarina nas áreas de Nutrição Animal e Produção de Suínos e Aves. Tem experiência nas áreas de Nutrição Animal e Produção de Monogástricos"
+            }
+        ],
+        "src": "../images/palestrantes/aline-felix.jpeg",
+        "palestras": [
+            {
+                "tema": "Avicultura moderna"
+            }
+        ]
+    },
+    {
+        "nome": "Amanda Neri",
+        "especialidade": "Médica Veterinária e Consultora Educampo Nestlé",
+        "descricao": [
+            {
+                "topico": "Médica veterinária, pela Universidade Federal de Viçosa, 2018;"
+            },
+            {
+                "topico": "Consultora Educampo Nestlé desde 2018."
+            }
+        ],
+        "src": "../images/palestrantes/amanda-neri.jpg",
+        "palestras": [
+            {
+                "tema": "Mercado de trabalho na indústria leiteira para recém formados"
+            }
+        ]
+    },
+    {
+        "nome": "Fábio Fidelis",
+        "especialidade": "Médico Veterinário e Empresário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário e Empresário do Hospital Veterinário Cambuá; possui mais de 10 milhões investidos no mercado pet, sendo um dos responsáveis por aumentar em mais de 40 vezes o faturamento do Hospital Veterinário Cambuá em 5 anos."
+            }
+        ],
+        "src": "../images/palestrantes/fabio-fidelis.jpg",
+        "palestras": [
+            {
+                "tema": "O que não te contaram sobre o gerenciamento de clínicas veterinárias"
+            }
+        ]
+    },
+    {
+        "nome": "Fernanda Timbó",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "• Graduação em medicina veterinária na Universidade Federal da Bahia (2008-2013)"
+            },
+            {
+                "topico": "• Residência em clínica e cirurgia de ruminantes e equídeos na Universidade Federal de Viçosa (2014-2016);"
+            },
+            {
+                "topico": "• Mestrado em ciência animal com ênfase em obstetrícia e neonatologia equina na Universidade Federal de Pelotas (2017-2019);"
+            },
+            {
+                "topico": "• Responsável pela temporada de nascimentos de 2019 em haras de cavalos de salto na França. Atualmente, diretora técnica da Crescer Soluções em Obstetrícia, Neonatologia e Pediatria Equina e responsável pelo Setor de Perinatologia e Pediatria da Clínica do Rancho (Bahia)."
+            }
+        ],
+        "src": "../images/palestrantes/fernanda-timbo.png",
+        "palestras": [
+            {
+                "tema": "Neonatologia Equina: a importância dos primeiros cuidados"
+            }
+        ]
+    },
+    {
+        "nome": "Ines Andretta",
+        "especialidade": "Zootecnista",
+        "descricao": [
+            {
+                "topico": "Graduação, mestrado e doutorado em Zootecnia pela Universidade Federal de Santa Maria; estágio de pós-doutoramento na Universidade Estadual Paulista Júlio de Mesquita Filho, em Jaboticabal. Atualmente trabalha como professora adjunta do Departamento de Zootecnia da Universidade Federal do Rio Grande do Sul, é orientadora de mestrado e doutorando no Programa de Pós-Graduação em Zootecnia."
+            }
+        ],
+        "src": "../images/palestrantes/ines-andretta.jpeg",
+        "palestras": [
+            {
+                "tema": "Mitos e verdades sobre a suinocultura moderna"
+            }
+        ]
+    },
+    {
+        "nome": "Marco Roberto Bourg de Mello",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Graduação em Medicina Veterinária, mestrado e doutorado em Reprodução Animal pela Universidade de São Paulo; pós-doutorado pela Universidade de Illinois, em Urbana-Champaign. Atualmente é professor associado e professor orientador nos programas de Pós-Graduação em Zootecnia e em Medicina Veterinária da UFRRJ e é membro da Sociedade Brasileira de Tecnologia de Embriões."
+            }
+        ],
+        "src": "../images/palestrantes/marco-mello.jpeg",
+        "palestras": [
+            {
+                "tema": "Clonagem por Transferência Nuclear em Bovinos"
+            }
+        ]
+    },
+    {
+        "nome": "Maria Gazzinelli",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "• Maria Gazzinelli Neves, Médica Veterinária -  CRMV/MG 12597;"
+            },
+            {
+                "topico": "• D. Sc. em Zootecnia - Reprodução Animal - UFV;"
+            },
+            {
+                "topico": "• Proprietária do CEFEQUI- Centro de Equoeterapia e Formação Equestre/ Viçosa-MG."
+            }
+        ],
+        "src": "../images/palestrantes/maria-gazzinelli.jpg",
+        "palestras": [
+            {
+                "tema": "Inovações da Reprodução equina: o que há de novo no mercado?"
+            }
+        ]
+    },
+    {
+        "nome": "Michelle Gouvêa",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "• Graduada em Medicina Veterinária pela PUC-MG" 
+            },
+            {
+                "topico": "• Pós-graduada em Clínica e Cirurgia de Pequenos Animais pela Equalis;"
+            },
+            {
+                "topico": "• Pós-graduada em Oftalmologia de Pequenos Animais pela Anclivepa-SP;"
+            },
+            {
+                "topico": "• Professora de Oftalmologia de Pequenos Animais no CPT Cursos Presenciais;"
+            },
+            {
+                "topico": "• Mestranda UFMG com linha de pesquisa em Oftalmologia Veterinária;"
+            },
+            {
+                "topico": "• Atuação exclusiva na área de Oftalmologia Veterinária em Belo Horizonte e região."
+            }
+        ],
+        "src": "../images/palestrantes/michelle-gouvea.jpg",
+        "palestras": [
+            {
+                "tema": "Oftalmologia básica: o que o clínico deve saber?"
+            }
+        ]
+    },
+    {
+        "nome": "Rafael Nudelman",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "• M.V formado pela UNESA;"
+            },
+            {
+                "topico": "• Residência no CRAS - Centro de Recuperação de animais silvestres da UNESA;"
+            },
+            {
+                "topico": "• Pós graduado em clínica e cirurgia de animais silvestres pelo Qualittas;"
+            },
+            {
+                "topico": "• Pós graduado em anestesiologia pela PAV;"
+            },
+            {
+                "topico": "• Pós graduando em farmacologia veterinária pelo Qualittas;"
+            },
+            {
+                "topico": "• Professor de pós graduação nas area de anestesiologia;"
+            },
+            {
+                "topico": "• Sócio proprietário do centro veterinário lagoa e da Clinica PROSIlvestres."
+            }
+        ],
+        "src": "../images/palestrantes/rafael-nudelman.jpg",
+        "palestras": [
+            {
+                "tema": "Casos clínicos na anestesiologia de animais silvestres"
+            }
+        ]
+    },
+    {
+        "nome": "Rodrigo Mencalha",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "• Médico veterinário formado pela UFruralRJ;"
+            },
+            {
+                "topico": "• Doutorado com ênfase em anestesia regional pela UFruralRJ;"
+            },
+            {
+                "topico": "• Mestrado com ênfase em farmacologia pela UFruralRJ;"
+            },
+            {
+                "topico": "• Pós-graduado em Dor e Cuidados Paliativos pelo Instituto Albert Einstein;"
+            },
+            {
+                "topico": "• Autor do livro abordagem e tratamento da dor crônica em cães e gatos;"
+            },
+            {
+                "topico": "• Experiência de 15 anos no ensino da graduação e gestão acadêmica;"
+            },
+            {
+                "topico": "• Atualmente é Professor de Anestesiologia e Farmacologia da Universidade Federal do Acre;"
+            },
+            {
+                "topico": "• Diretor Científico dos Cursos de Anestesiologia do Instituto MelloVet;"
+            },
+            {
+                "topico": "• Co-fundador da Hypnos Anestesia Veterinária."
+            }
+        ],
+        "src": "../images/palestrantes/rodrigo-mencalha.jpg",
+        "palestras": [
+            {
+                "tema": "Bloqueios Analgésicos para Alívio da dor crônica"
+            }
+        ]
+    },
+    {
+        "nome": "Shara Regina",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "• Médica Veterinária pela UFV, 2002;"
+            },
+            {
+                "topico": "• Mestre em Ciências pela Fundação Oswaldo Cruz, 2009;"
+            },
+            {
+                "topico": "• Doutora pela Fundação Oswaldo Cruz, 2015. Atualmente é presidente e responsável técnica da ONG Meu Amigo Cão de Ipatinga, professora do Unileste MG e médica veterinária do Centro de Controle de Zoonoses de Ipatinga. Tem experiência na área de controle de Zoonoses, em especial a leishmaniose visceral e a esporotricose."
+            }
+        ],
+        "src": "../images/palestrantes/shara-regina.jpg",
+        "palestras": [
+            {
+                "tema": "Leishmaniose, Esporotricose e a atuação do médico veterinário no Centro de Controle de Zoonoses"
+            }
+        ]
+    },
+    {
+        "nome": "Welden Panziera",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Possui graduação (2012) em medicina veterinária pela Universidade Federal de Santa Maria (UFSM), mestrado (2015) na área de Patologia Veterinária pelo Programa de Pós-Graduação em Medicina Veterinária (PPGMV/UFSM) pela mesma instituição e doutorado (2018) em Patologia Veterinária pelo Programa de Pós-graduação em Ciências Veterinárias da Universidade Federal do Rio Grande do Sul (PPGCV/UFRGS). Realizou pós-doutorado no Setor de Patologia Veterinária da UFRGS. Atualmente é professor adjunto da Faculdade de Veterinária da Universidade Federal do Rio Grande do Sul (FAVET-UFRGS), lotado no Departamento de Patologia Clínica Veterinária. Tem experiência em Medicina Veterinária, com ênfase em Toxicologia e Patologia Veterinária."
+            }
+        ],
+        "src": "../images/palestrantes/welden-panziera.jpg",
+        "palestras": [
+            {
+                "tema": "Toxicologia Veterinária"
+            }
+        ]
+    }
+]

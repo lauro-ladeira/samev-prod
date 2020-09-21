@@ -1,0 +1,125 @@
+{
+    "palestrantes": [
+      {
+        "nome": "Aline Félix",
+        "especialidade": "Médica Veterinária",
+        "url": "Aline-Felix.jpeg",
+        "palestras": [
+          {
+            "tema": "Avicultura moderna"
+          }
+        ],
+        "descricao": "Olá! Meu nome é Allexia Oliveira e estou no sétimo período de Medicina Veterinária na UFV. Atualmente sou presidente da SAMEV e já participei do evento em outros anos como comissão na área do marketing e como ouvinte. Tenho um apreço muito grande pela Semana e uma admiração enorme por tudo que ela me proporcionou nos anos passados. Vejo a SAMEV como uma forma de interagir com assuntos não comumente abordados na grade curricular da Veterinária, principalmente da UFV. Creio que nosso evento tem um impacto positivo sobre os estudantes e profissionais que participam todo ano, onde ambos têm a oportunidade de criar uma rede de contatos, contando com médicos veterinários excelentes e capacitados e futuros profissionais que pensam no melhor para seus pacientes, independente de espécie. Espero que esse ano, dentro do cenário de pandemia, possamos entregar um evento diferenciado e acolhedor para todas as áreas da medicina veterinária."
+      },
+      {
+        "nome": "Amanda Neri",
+        "especialidade": "Médica Veterinária e Consultora Educampo Nestlé desde 2018",
+        "url": "Amanda-Neri.jpg",
+        "palestras": [
+          {
+            "tema": "Mercado de trabalho na indústria leiteira para recém formados"
+          }  
+        ]
+      },
+      {
+        "nome": "Fábio Fidelis",
+        "especialidade": "Médico Veterinário e Empresário do Hospital Veterinário Cambuá",
+        "url": "Fabio-Fidelis.jpg",
+        "palestras": [
+          {
+            "tema": "O que não te contaram sobre o gerenciamento de clínicas veterinárias"
+          }   
+        ]
+      },
+      {
+        "nome": "Fernanda Timbó",
+        "especialidade": "Médico Veterinário",
+        "url": "Fernanda-Timbo.png",
+        "palestras": [
+          {
+            "tema": "Neonatologia Equina: a importância dos primeiros cuidados"
+          }  
+        ]
+      },
+      {
+        "nome": "Ines Andretta",
+        "especialidade": "Zootecnista",
+        "url": "Ines-Andretta.jpeg",
+        "palestras": [
+          {
+            "tema": "Mitos e verdades sobre a suinocultura moderna"
+          }
+        ]
+      },
+      {
+        "nome": "Marco Mello",
+        "especialidade": "Médico Veterinário e Professor Associado na UFRRJ",
+        "url": "Marco-Mello.jpeg",
+        "palestras": [
+          {
+            "tema": "Clonagem por Transferência Nuclear em Bovinos"
+          }  
+        ]
+      },
+      {
+        "nome": "Maria Gazzinelli",
+        "especialidade": "Médica Veterinária",
+        "url": "Maria-Gazzinelli.jpg",
+        "palestras": [
+          {
+            "tema": "Inovações da Reprodução equina: o que há de novo no mercado?"
+          }   
+        ]
+      },
+      {
+        "nome": "Michelle Gouvêa",
+        "especialidade": "Médica Veterinária",
+        "url": "Michelle-Gouvea.jpg",
+        "palestras": [
+          {
+            "tema": "Oftalmologia básica: o que o clínico deve saber?"
+          }   
+        ]
+      }, 
+      {
+        "nome": "Rafael Nudelman",
+        "especialidade": "Médico Veterinário",
+        "url": "Rafael-Nudelman.jpg",
+        "palestras": [
+          {
+            "tema": "Casos clínicos na anestesiologia de animais silvestres"
+          } 
+        ]
+      },
+      {
+        "nome": "Rodrigo Mencalha",
+        "especialidade": "Médico Veterinário",
+        "url": "Rodrigo-Mencalha.jpg",
+        "palestras": [
+          {
+            "tema": "Bloqueios Analgésicos para Alívio da dor crônica"
+          }  
+        ]
+      }, 
+      {
+        "nome": "Shara Regina",
+        "especialidade": "Médica Veterinária",
+        "url": "Shara-Regina.jpg",
+        "palestras": [
+          {
+            "tema": "Leishmaniose, Esporotricose e a atuação do médico veterinário no Centro de Controle de Zoonoses"
+          }
+        ]
+      }, 
+      {
+        "nome": "Welden Panziera",
+        "especialidade": "Professor adjunto da Faculdade de Veterinária da Universidade Federal do Rio Grande do Sul ",
+        "url": "Welden.jpg",
+        "palestras": [
+          {
+            "tema": "Toxicologia Veterinária"
+          }
+        ]
+      }
+    ]
+  }

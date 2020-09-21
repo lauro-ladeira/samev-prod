@@ -1,0 +1,14 @@
+[
+    {
+        "name": "ufv",
+        "src": "../images/photos/ufv_apoiador.png"
+    },
+    {
+        "name": "pos",
+        "src": "../images/photos/pos_apoiador.png"
+    },
+    {
+        "name": "dvt",
+        "src": "../images/photos/dvt_apoiador.png"
+    }
+]
