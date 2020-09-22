@@ -5,21 +5,21 @@
             {
                 "lote": "Lote Relâmpago",
                 "observacao": "(Vagas Limitadas)",
-                "data": "22/09 a 28/09",
-                "obs": "ou enquanto durarem os ingressos, podendo esgotar antes da data limite",
+                "data": "ESGOTADO",
+                "obs": "",
                 "preco": "R$11,00"
             },
             {
                 "lote": "Promocional",
                 "observacao": "(Vagas Limitadas)",
-                "data": "29/09 a 05/10",
+                "data": "22/09",
                 "obs": "ou enquanto durarem os ingressos, podendo esgotar antes da data limite",
                 "preco": "R$16,00"
             },
             {
                 "lote": "1º Lote",
                 "observacao": "",
-                "data": "06/10 a 26/10",
+                "data": "23/09 a 26/10",
                 "obs": "",
                 "preco": "R$25,00"
             },
