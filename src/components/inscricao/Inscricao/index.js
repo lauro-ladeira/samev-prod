@@ -79,7 +79,8 @@ const Inscricao = () => {
           8. Imprima seu comprovante ou salve no seu smartphone. Não esqueça de
           adicionar nosso evento no seu calendário. 9. Após seguir esses passo
           você receberá um email de confirmação de inscrição.
-          <br />
+          <br /><br />
+          9. Após seguir esses passo você receberá um email de confirmação de inscrição.
         </S.Description>
         <S.TableContainer>
           {precos.map(el => {
