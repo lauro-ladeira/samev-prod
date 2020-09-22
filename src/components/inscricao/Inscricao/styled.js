@@ -1,7 +1,7 @@
 import styled from "styled-components"
 import media from "styled-media-query"
-/* import { Link } from "gatsby"
- */
+import { Link } from "gatsby"
+
 export const InscricaoWrapper = styled.div`
   width: 100%;
   height: auto;
@@ -52,7 +52,8 @@ export const ButtonsContainer = styled.div`
     flex-direction: column;
   `}
 `
-export const Button = styled.div`
+export const Button = styled(Link)`
+  text-decoration: none;
   cursor: pointer;
   display: flex;
   align-items: center;
