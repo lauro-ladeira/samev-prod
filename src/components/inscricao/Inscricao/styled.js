@@ -24,7 +24,8 @@ export const Title = styled.h1`
   line-height: 42px;
   color: #0c525e;
 
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
 
   ${media.lessThan("630px")`
     text-align: center;
@@ -98,7 +99,7 @@ export const TableContainer = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 30px 0;
+  padding: 20px 0;
   height: auto;
   width: 100%;
 `
