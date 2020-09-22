@@ -83,8 +83,7 @@ const Inscricao = () => {
           <br />
           <br />
           <strong>8.</strong> Imprima seu comprovante ou salve no seu smartphone. Não esqueça de
-          adicionar nosso evento no seu calendário. 9. Após seguir esses passo
-          você receberá um email de confirmação de inscrição.
+          adicionar nosso evento no seu calendário.
           <br />
           <br />
           <strong>9.</strong> Após seguir esses passo você receberá um email de confirmação de
