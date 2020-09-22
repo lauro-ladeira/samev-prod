@@ -12,7 +12,8 @@ const Inscricao = () => {
         {/* <S.Title>Título</S.Title> */}
         <S.ButtonsContainer>
           <S.Button
-            to="https://eventos.funarbe.org.br/detalhes/xxii-semana-academica-de-medicina-veterinaria-%28xxii-samev---ufv%29"
+            /* to="https://eventos.funarbe.org.br/detalhes/xxii-semana-academica-de-medicina-veterinaria-%28xxii-samev---ufv%29" */
+            to="/inscricao"
             target="_blank"
           >
             <S.Img>
@@ -20,7 +21,7 @@ const Inscricao = () => {
             </S.Img>
             Faça o Pagamento
           </S.Button>
-          <S.Button to="https://www.even3.com.br/samevufv" target="_blank">
+          <S.Button /* to="https://www.even3.com.br/samevufv" */ to="/inscricao" target="_blank">
             <S.Img>
               <Form />
             </S.Img>
