@@ -30,19 +30,11 @@ const ProgramacaoEvento = () => {
     if (
       [
         "Maricy Apparício",
-        "Rafael Bombachi",
-        "Laís Ângelo de Abreu",
-        "Camila Utrera",
         "Ana Paula Simões",
         "Henrique Machado",
-        "Mariana Costa Fausto",
         "Abelardo Silva Júnior",
-        "Carine Stefanello",
-        "Ana Flávia Chizzotti",
         "A CONFIRMAR",
-        "Shara Regina",
-        "Welden Panziera",
-        "Amanda Neri"
+        "Welden Panziera"
       ].includes(p)
     ) {
       return setPalestranteActive("Aguarde informações!")
