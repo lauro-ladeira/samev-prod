@@ -61,7 +61,7 @@
     },
     {
         "nome": "Renata Arruda",
-        "especialidade": "",
+        "especialidade": "Advogada",
         "descricao": [
             {
                 "topico": "Advogada especializada em defesa do profissional em processos éticos e consultoria preventiva em Direito Médico Veterinário, atuando como assessora jurídica na Fundação Getúlio Vargas."
@@ -356,6 +356,156 @@
         "palestras": [
             {
                 "tema": "Bloqueios Analgésicos para Alívio da dor crônica"
+            }
+        ]
+    },
+    {
+        "nome": "Amanda Neri",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária pela Universidade Federal de Viçosa desde 2018 e atual consultora do Educampo leite,  grupo Nestlé. Durante a graduação estagiou no Programa de Desenvolvimento da Pecuária Leiteira e Programa de Capacitação de Especialistas em Pecuária Leiteira(PDPL/PCEPL) , obtendo o título de especialista em pecuária leiteira e, também, na empresa Labor Rural. Possui o título de monitora de Controle Zootécnico do PDPL/PCEPL."
+            }
+        ],
+        "src": "../images/palestrantes/amanda-neri.jpg",
+        "palestras": [
+            {
+                "tema": "Mercado de trabalho na indústria leiteira para recém formados"
+            }
+        ]
+    },
+    {
+        "nome": "Ana Flávia Chizzotti",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária formada pela Universidade Federal de Lavras; mestra em Nutrição Animal, com ênfase em cães e gatos pela mesma universidade; especializada em Engenharia de Alimentos e Desenvolvimento de Produtos pelo Instituto Mauá de Tecnologia. Atual Coordenadora Técnica da empresa Granvita."
+            }
+        ],
+        "src": "../images/palestrantes/ana-flavia-chizzotti.png",
+        "palestras": [
+            {
+                "tema": "Nutrição de cães e gatos: Qual sua influência sobre a imunidade?"
+            }
+        ]
+    },
+    {
+        "nome": "Camila Utrera",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária pela Universidade Metodista de São Paulo; residência em cirurgia de pequenos animais pela Universidade Guarulhos; pós graduada em Oncologia Veterinária pelo Instituto Bioethicus; realiza trabalho no Serviço de Cirurgia de Pequenos Animais da FMU de 2012 a 2019. Atualmente realiza seu aperfeiçoamento em Cirurgia Reconstrutiva pela Unesp Jaboticabal; é oncologista e cirurgiã da Onco Cane e do Hospital Veterinário Animal Care; é membra do Grupo Psiconvet; e professora da Universidade Cruzeiro do Sul (UniCSul)."
+            }
+        ],
+        "src": "../images/palestrantes/camila-utrera.jpeg",
+        "palestras": [
+            {
+                "tema": "Oncologia em pequenos animais – Como lidar com pacientes terminais?"
+            }
+        ]
+    },
+    {
+        "nome": "Carine Stefanello",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária graduada na Universidade de Cruz Alta (UNICRUZ); especializada em clínica médica e cirúrgica, bem como em dermatologia de animais de companhia pelo Qualittas; mestra em Ciências Veterinárias na Universidade Federal do Rio Grande do Sul (UFRGS). Atualmente é doutoranda na UFRGS e tem como linha de pesquisa Otologia e Audiometria em cães e gatos; é professora no módulo de otologia em cães e gatos no curso de especialização da Dermatovet Cursos; atua como médica veterinária volante em Porto Alegre, prestando serviço especializado em otologia e oferecendo exames de audiometria e videotoscopia em pequenos animais."
+            }
+        ],
+        "src": "../images/palestrantes/carine-stefanello.jpeg",
+        "palestras": [
+            {
+                "tema": "Abordagem diagnóstica das otopatias em cães e gatos"
+            }
+        ]
+    },
+    {
+        "nome": "Laís Ângelo de Abreu",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária formada pela Universidade Federal do Tocantins, possui experiência em Reprodução Animal através de projetos de pesquisa em laboratórios e fazendas comerciais no Brasil e na Austrália. Atualmente é mestranda no Programa de Pós-Graduação em Reprodução Animal da Universidade de São Paulo, com ênfase em fisiologia e manejo reprodutivo e interação nutrição-reprodução em bovinos de corte."
+            }
+        ],
+        "src": "../images/palestrantes/Laís Ângelo Abreu.JPG",
+        "palestras": [
+            {
+                "tema": "Evolução e perspectivas da inseminação artificial em fêmeas bovinas"
+            }
+        ]
+    },
+    {
+        "nome": "Shara Regina",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária pela Universidade Federal de Viçosa; mestra e doutora pela Fundação Oswaldo Cruz. Atualmente é professora da Unileste, Médica Veterinária do Centro de Controle de Zoonoses de Ipatinga e presidente e responsável técnica da ONG Meu Amigo Cão, também em Ipatinga."
+            }
+        ],
+        "src": "../images/palestrantes/Shara Regina.jpg",
+        "palestras": [
+            {
+                "tema": "Leishmaniose, esporotricose e a atuação do Médico Veterinário no Centro de Controle de Zoonoses"
+            }
+        ]
+    },
+    {
+        "nome": "Mariana Costa Fausto",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária, mestra e doutora em Medicina Veterinária Preventiva, com ênfase em biotecnologia, diagnóstico e controle de doenças dos suínos, pela Universidade Federal de Viçosa. Atualmente é professora do curso de Medicina Veterinária e Coordenadora do curso de pós graduação em Gestão, Produção e Consultoria em Suinocultura no Centro Universitário de Viçosa (UNIVIÇOSA); possui como linha de pesquisa o desenvolvimento de técnicas de imunodiagnóstico para controle de enfermidades que acometem os suínos; atua em projetos de extensão com Programas de Boas Práticas de Fabricação de Ração e Boas Práticas de Higienização de Granjas de Suínos."
+            }
+        ],
+        "src": "../images/palestrantes/Mariana Costa Fausto.jpg",
+        "palestras": [
+            {
+                "tema": "Atualizações do Programa Nacional de Sanidade Suídea"
+            }
+        ]
+    },
+    {
+        "nome": "Plínio Mantovani",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário e mestre em clínica e cirurgia, com linha de pesquisa em ortopedia e traumatologia pela Universidade Federal de Minas Gerais. Atualmente trabalha como cirurgião de animais silvestres e em projetos de resgate de fauna, reabilitação e na elaboração de projetos de criação e conservação de animais silvestres há mais de 10 anos. É coordenador do Programa de Resgate da Arara-azul-de-lear, projeto que visa a capacitação de populares e profissionais na área de ocorrência da espécie, além de melhorar os processos envolvidos em casos de resgates e tratamentos de araras-azuis-de-lear vítimas de ações antrópicas."
+            }
+        ],
+        "src": "../images/palestrantes/Plínio F. Mantovani.jpg",
+        "palestras": [
+            {
+                "tema": "Lesões em araras-azuis-de-lear resgatadas"
+            }
+        ]
+    },
+    {
+        "nome": "Rafael Bombachi",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário graduado pela Universidade Federal de Viçosa. Atualmente é Fiscal Agropecuário efetivo do Instituto Mineiro de Agropecuária; lotado na Coordenadoria Regional de Viçosa; é assessor técnico de Inspeção de Produtos de Origem Animal; e é o certificador do Programa Certifica Minas nas áreas de leite, carne bovina e queijo minas artesanal."
+            }
+        ],
+        "src": "../images/palestrantes/Rafael Bombachi.jpg",
+        "palestras": [
+            {
+                "tema": "Papel do Médico Veterinário em serviços de fiscalização relacionados aos produtos de origem animal"
+            }
+        ]
+    },
+    {
+        "nome": "Stelamaris Dezen",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária formada pela Universidade Federal do Paraná – Campus Palotina; mestra e doutora em Ciência Animal pela Universidade Estadual de Londrina; especializada em nutrição de animais de interesse zootécnico pela Pontifícia Universidade Católica do Paraná. Atua como docente em Educação Básica, Técnica e Tecnológica no Instituto Federal Catarinense – Campus Araquari."
+            }
+        ],
+        "src": "../images/palestrantes/stelamaris_dezen.JPG",
+        "palestras": [
+            {
+                "tema": "Criação de marrecos-de-pequim no Brasil"
             }
         ]
     }
