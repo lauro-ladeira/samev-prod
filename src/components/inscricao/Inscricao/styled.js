@@ -44,7 +44,7 @@ export const Description = styled.p`
 `
 export const ButtonsContainer = styled.div`
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   height: auto;
   width: 100%;
