@@ -1,7 +1,6 @@
 import React from "react"
 import * as S from "./styled"
 import Form from "./Form"
-import Pay from "./Pay"
 
 import precos from "../../../data/precos.json"
 
@@ -11,17 +10,6 @@ const Inscricao = () => {
       <S.InscricaoContainer>
         {/* <S.Title>Título</S.Title> */}
         <S.ButtonsContainer>
-          <S.Button
-            to="https://eventos.funarbe.org.br/detalhes/xxii-semana-academica-de-medicina-veterinaria-%28xxii-samev---ufv%29"
-            /* to="/inscricao" */
-            target="_blank"
-/*             onClick={() => alert("Em manutenção, desculpe o incômodo")} */
-          >
-            <S.Img>
-              <Pay />
-            </S.Img>
-            Faça o Pagamento
-          </S.Button>
           <S.Button to="https://www.even3.com.br/samevufv" /* to="/inscricao" */ target="_blank" /* onClick={() => alert("Em manutenção, desculpe o incômodo")} */>
             <S.Img>
               <Form />
