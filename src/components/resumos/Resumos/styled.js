@@ -60,7 +60,7 @@ export const Button = styled(Link)`
   align-items: center;
   justify-content: space-around;
 
-  width: 492px;
+  width: 320px;
   padding: 20px 0;
   margin-bottom: 80px;
 
@@ -81,7 +81,7 @@ export const Button = styled(Link)`
   }
 
   ${media.lessThan("1170px")`
-    width: 45%;
+    width: 30%;
   `}
 
   ${media.lessThan("760px")`

@@ -24,7 +24,7 @@ const Resumos = () => {
         </S.Description>
         <S.ButtonsContainer>
           <S.Button
-            to="https://drive.google.com/file/d/12Qcj8aUrI74yt2arY8rFG26sBCEsVos_/view?usp=sharing"
+            to="https://drive.google.com/file/d/1UG1a2qa8xcyofNl3FTOWkZD2lDtaUTya/view?usp=sharing"
             target="_blank"
           >
             Edital
@@ -34,6 +34,12 @@ const Resumos = () => {
             target="_blank"
           >
             Modelo de Resumo
+          </S.Button>{" "}
+          <S.Button
+            to="https://drive.google.com/file/d/1-jW1cE1dqq3PfZPYtMBvBSKHHLBndSCx/view?usp=sharing"
+            target="_blank"
+          >
+            Modelo de Painel
           </S.Button>
         </S.ButtonsContainer>
         {/*         <S.Title>Resumos</S.Title> */}

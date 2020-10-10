@@ -1,14 +1,37 @@
 [
     {
         "name": "ufv",
-        "src": "../images/photos/ufv_apoiador.png"
+        "src": "../images/photos/ufv_apoiador.png",
+        "size": 1
     },
     {
         "name": "pos",
-        "src": "../images/photos/pos_apoiador.png"
+        "src": "../images/photos/pos_apoiador.png",
+        "size": 1
     },
     {
         "name": "dvt",
-        "src": "../images/photos/dvt_apoiador.png"
+        "src": "../images/photos/dvt_apoiador.png",
+        "size": 1
+    },
+    {
+        "name": "granvita",
+        "src": "../images/photos/Granvita_Quatree.png",
+        "size": 1
+    },
+    {
+        "name": "clinica veterinaria",
+        "src": "../images/photos/Clinica Veterinaria.png",
+        "size": 1
+    },
+    {
+        "name": "cursos vet",
+        "src": "../images/photos/CURSOS VET BR.png",
+        "size": 5
+    },
+    {
+        "name": "chilli beans",
+        "src": "../images/photos/Chilli Beans Ótica.png",
+        "size": 5
     }
 ]
