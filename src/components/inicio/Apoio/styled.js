@@ -1,7 +1,8 @@
 import styled from "styled-components"
 import media from "styled-media-query"
+import Img from "gatsby-image"
 // import Img from 'gatsby-image'
-// import { Link } from "gatsby"
+import { Link } from "gatsby"
 
 // import ApoiadorImage from "../../../../apoiador.jpg"
 
@@ -33,13 +34,48 @@ export const ApoiadoresContainer = styled.div`
   align-items: center;
 `
 
+export const ApoiadoresDiamanteContainer = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+`
+
+export const ImgWrapperLink = styled(Link)`
+  /* background: red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
+  margin: 0 10px 20px;
+  transition: transform 0.6s;
+
+  &:hover,
+  &:focus {
+    transform: scale(1.05);
+  }
+
+  ${media.lessThan("768px")`
+    width: 80%;
+    margin: 0 10% 30px;
+  `}
+`
+
 export const ImgWrapper = styled.div`
   /* background: red; */
-  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30%;
   margin: 0 10px 20px;
 
   ${media.lessThan("768px")`
     width: 80%;
     margin: 0 10% 30px;
   `}
+`
+
+export const SetImg = styled(Img)`
+/*     width: 20%;
+    height: 20%; */
 `

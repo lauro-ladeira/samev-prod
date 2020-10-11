@@ -1,37 +1,44 @@
 [
     {
-        "name": "ufv",
-        "src": "../images/photos/ufv_apoiador.png",
-        "size": 1
-    },
-    {
-        "name": "pos",
-        "src": "../images/photos/pos_apoiador.png",
-        "size": 1
-    },
-    {
-        "name": "dvt",
-        "src": "../images/photos/dvt_apoiador.png",
-        "size": 1
-    },
-    {
         "name": "granvita",
         "src": "../images/photos/Granvita_Quatree.png",
-        "size": 1
+        "size": 1,
+        "link": "https://www.granvitapet.com.br/"
     },
     {
         "name": "clinica veterinaria",
         "src": "../images/photos/Clinica Veterinaria.png",
-        "size": 1
+        "size": 1,
+        "link": "https://revistaclinicaveterinaria.com.br/"
+    },
+    {
+        "name": "ufv",
+        "src": "../images/photos/ufv_apoiador.png",
+        "size": 3,
+        "link": ""
+    },
+    {
+        "name": "pos",
+        "src": "../images/photos/pos_apoiador.png",
+        "size": 3,
+        "link": ""
+    },
+    {
+        "name": "dvt",
+        "src": "../images/photos/dvt_apoiador.png",
+        "size": 3,
+        "link": ""
     },
     {
         "name": "cursos vet",
         "src": "../images/photos/CURSOS VET BR.png",
-        "size": 5
+        "size": 4.1,
+        "link": ""
     },
     {
         "name": "chilli beans",
         "src": "../images/photos/Chilli Beans Ótica.png",
-        "size": 5
+        "size": 4.1,
+        "link": ""
     }
 ]
