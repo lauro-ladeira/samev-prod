@@ -364,7 +364,7 @@
         "especialidade": "Médica Veterinária",
         "descricao": [
             {
-                "topico": "Médica Veterinária pela Universidade Federal de Viçosa desde 2018 e atual consultora do Educampo leite,  grupo Nestlé. Durante a graduação estagiou no Programa de Desenvolvimento da Pecuária Leiteira e Programa de Capacitação de Especialistas em Pecuária Leiteira(PDPL/PCEPL) , obtendo o título de especialista em pecuária leiteira e, também, na empresa Labor Rural. Possui o título de monitora de Controle Zootécnico do PDPL/PCEPL."
+                "topico": "Médica Veterinária pela Universidade Federal de Viçosa; estagiou no Programa de Desenvolvimento da Pecuária Leiteira e Programa de Capacitação de Especialistas em Pecuária Leiteira (PDPL/PCEPL), obtendo o título de especialista em pecuária leiteira, estagiou também na empresa Labor Rural. Possui o título de monitora de Controle Zootécnico do PDPL/PCEPL. Atual consultora do Educampo Leite, grupo Nestlé."
             }
         ],
         "src": "../images/palestrantes/amanda-neri.jpg",
@@ -506,6 +506,51 @@
         "palestras": [
             {
                 "tema": "Criação de marrecos-de-pequim no Brasil"
+            }
+        ]
+    },
+    {
+        "nome": "Abelardo Silva Júnior",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário e doutor em Bioquímica Agrícola pela Universidade Federal de Viçosa; pós-doutorado na escola de Medicina Veterinária em Cornell University, nos Estados Unidos; exerceu o cargo de chefe do Setor de Medicina Veterinária Preventiva e Saúde Pública do Departamento de Veterinária; foi coordenador adjunto da Rede Mineira de Biotecnologia Aplicada ao Agronegócio (RBMA-FAPEMIG); foi pesquisador do CNPq nível II na modalidade de Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora. Atualmente é professor associado, coordenador e orientador do Programa de Pós-graduação em Medicina Veterinária da Universidade Federal de Viçosa; é orientador do programa de mestrado e doutorado em Biociência Animal da Universidade de Cuiabá. É o atual coordenador do Laboratório de Imunobiológicos e Virologia Animal, presidente da Comissão de Biossegurança da UFV, pesquisador do Instituto de Biotecnologia Aplicada à Agropecuária (BIOAGRO) e pesquisador de produtividade do CNPq. Possui experiência na área de Medicina Veterinária Preventiva, com ênfase em doenças infecciosas animais, e sua linha de pesquisa envolve o desenvolvimento de produtos relacionados a vacinas veterinárias, virais e bacterianas, e estudo de viroses animais. Colabora com projetos da área de parasitas e câncer."
+            }
+        ],
+        "src": "../images/palestrantes/Abelardo Silva Júnior.JPG",
+        "palestras": [
+            {
+                "tema": "A Medicina Veterinária na saúde pública: experiência de um Médico Veterinário no diagnóstico da COVID19"
+            }
+        ]
+    },
+    {
+        "nome": "Maricy Apparício",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária pela Universidade Estadual de Londrina; residência em Reprodução e Obstetrícia Veterinária pela UNESP – Jaboticabal; mestra em Cirurgia Veterinária e doutora em Reprodução Animal pela UNESP – Jaboticabal, com período sanduíche junto à Università degli studi di Milano; pós-doutorado na área de espectrometria de massas e imageamento químico. É editora do livro “Reprodução e Obstetrícia em cães e gatos”, além de atuar como professora substituta de Obstetrícia Veterinária junto à UNESP – Jaboticabal, é docente do programa de pós-graduação em Medicina Veterinária da mesma instituição."
+            }
+        ],
+        "src": "../images/palestrantes/Maricy Apparício.jpeg",
+        "palestras": [
+            {
+                "tema": "Quando decidir pelas cesarianas?"
+            }
+        ]
+    },
+    {
+        "nome": "Welden Panziera",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário pela Universidade Federal de Santa Maria (UFSM); mestre em Patologia Veterinária pelo Programa de Pós-Graduação em Medicina Veterinária da UFSM; doutor em Patologia Veterinária pelo Programa de pós-graduação em Ciências Veterinárias da Universidade Federal do Rio Grande do Sul (PPGCV/UFRGS); pós-doutorado no Setor de Patologia Veterinária da UFRGS. Atualmente é professor adjunto da Faculdade de Veterinária da UFRGS, lotado no Departamento de Patologia Clínica Veterinária."
+            }
+        ],
+        "src": "../images/palestrantes/welden-panziera.jpg",
+        "palestras": [
+            {
+                "tema": "Toxicologia Veterinária"
             }
         ]
     }
