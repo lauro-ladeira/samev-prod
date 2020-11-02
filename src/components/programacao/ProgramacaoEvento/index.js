@@ -29,12 +29,9 @@ const ProgramacaoEvento = () => {
     setActive(!currentState)
     if (
       [
-        "Maricy Apparício",
         "Ana Paula Simões",
         "Henrique Machado",
-        "Abelardo Silva Júnior",
         "A CONFIRMAR",
-        "Welden Panziera"
       ].includes(p)
     ) {
       return setPalestranteActive("Aguarde informações!")
