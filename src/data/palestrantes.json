@@ -364,7 +364,7 @@
         "especialidade": "Médica Veterinária",
         "descricao": [
             {
-                "topico": "INFORMAÇÕES PALESTRANTE: Médica Veterinária pela Universidade Federal de Viçosa; estagiou no Programa de Desenvolvimento da Pecuária Leiteira e Programa de Capacitação de Especialistas em Pecuária Leiteira (PDPL/PCEPL), obtendo o título de especialista em pecuária leiteira, estagiou também na empresa Labor Rural. Possui o título de monitora de Controle Zootécnico do PDPL/PCEPL. Atual consultora do Educampo Leite, grupo Nestlé."
+                "topico": "Médica Veterinária pela Universidade Federal de Viçosa; estagiou no Programa de Desenvolvimento da Pecuária Leiteira e Programa de Capacitação de Especialistas em Pecuária Leiteira (PDPL/PCEPL), obtendo o título de especialista em pecuária leiteira, estagiou também na empresa Labor Rural. Possui o título de monitora de Controle Zootécnico do PDPL/PCEPL. Atual consultora do Educampo Leite, grupo Nestlé."
             }
         ],
         "src": "../images/palestrantes/amanda-neri.jpg",
@@ -472,7 +472,7 @@
                 "topico": "Médico Veterinário e mestre em clínica e cirurgia, com linha de pesquisa em ortopedia e traumatologia pela Universidade Federal de Minas Gerais. Atualmente trabalha como cirurgião de animais silvestres e em projetos de resgate de fauna, reabilitação e na elaboração de projetos de criação e conservação de animais silvestres há mais de 10 anos. É coordenador do Programa de Resgate da Arara-azul-de-lear, projeto que visa a capacitação de populares e profissionais na área de ocorrência da espécie, além de melhorar os processos envolvidos em casos de resgates e tratamentos de araras-azuis-de-lear vítimas de ações antrópicas."
             }
         ],
-        "src": "../images/palestrantes/Plínio F. Mantovani.jpg",
+        "src": "../images/palestrantes/plinio.jpg",
         "palestras": [
             {
                 "tema": "Lesões em araras-azuis-de-lear resgatadas"
@@ -517,7 +517,7 @@
                 "topico": "Médico Veterinário e doutor em Bioquímica Agrícola pela Universidade Federal de Viçosa; pós-doutorado na escola de Medicina Veterinária em Cornell University, nos Estados Unidos; exerceu o cargo de chefe do Setor de Medicina Veterinária Preventiva e Saúde Pública do Departamento de Veterinária; foi coordenador adjunto da Rede Mineira de Biotecnologia Aplicada ao Agronegócio (RBMA-FAPEMIG); foi pesquisador do CNPq nível II na modalidade de Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora. Atualmente é professor associado, coordenador e orientador do Programa de Pós-graduação em Medicina Veterinária da Universidade Federal de Viçosa; é orientador do programa de mestrado e doutorado em Biociência Animal da Universidade de Cuiabá. É o atual coordenador do Laboratório de Imunobiológicos e Virologia Animal, presidente da Comissão de Biossegurança da UFV, pesquisador do Instituto de Biotecnologia Aplicada à Agropecuária (BIOAGRO) e pesquisador de produtividade do CNPq. Possui experiência na área de Medicina Veterinária Preventiva, com ênfase em doenças infecciosas animais, e sua linha de pesquisa envolve o desenvolvimento de produtos relacionados a vacinas veterinárias, virais e bacterianas, e estudo de viroses animais. Colabora com projetos da área de parasitas e câncer."
             }
         ],
-        "src": "../images/palestrantes/Abelardo Silva Júnior.JPG",
+        "src": "../images/palestrantes/abelardo.JPG",
         "palestras": [
             {
                 "tema": "A Medicina Veterinária na saúde pública: experiência de um Médico Veterinário no diagnóstico da COVID19"
