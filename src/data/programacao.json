@@ -89,11 +89,6 @@
             },
             {
                 "horario": "",
-                "tema": " – “Atualidades sobre o incremento da qualidade do sêmen equino! O que há de novo?”",
-                "palestrante": "Maria Gazzinelli"
-            },
-            {
-                "horario": "",
                 "tema": " – “Desvendando os mistérios do prurido em felinos”",
                 "palestrante": "Renata Novais"
             },
@@ -113,9 +108,9 @@
                 "palestrante": "Ines Andretta"
             },
             {
-                "horario": "AGUARDE",
-                "tema": "",
-                "palestrante": "AGUARDE NOVIDADES"
+                "horario": "",
+                "tema": " – “Criação de Marrecos de Pequim no Brasil",
+                "palestrante": "Stelamaris Dezen"
             },
             {
                 "horario": "TITULO",
@@ -178,9 +173,9 @@
                 "palestrante": "Rafael Nudelman"
             },
             {
-                "horario": "AGUARDE",
-                "tema": "",
-                "palestrante": "AGUARDE NOVIDADES"
+                "horario": "",
+                "tema": " – “Teoria do Elo: a conexão entre os maus tratos aos animais e a violência interpessoal",
+                "palestrante": "Yasmin da Silva"
             },
             {
                 "horario": "TITULO",
@@ -233,9 +228,19 @@
                 "palestrante": "Henrique Machado"
             },
             {
-                "horario": "AGUARDE",
-                "tema": "",
-                "palestrante": "AGUARDE NOVIDADES"
+                "horario": "",
+                "tema": " – “Lesões em araras-azuis-de-lear resgatadas",
+                "palestrante": "Plínio F. Mantovani"
+            },
+            {
+                "horario": "",
+                "tema": " – “Como reduzir o impacto ambiental da Avicultura via nutrição?",
+                "palestrante": "Aline Félix Schneider"
+            },
+            {
+                "horario": "",
+                "tema": " – “O que o eletrocardiograma diz sobre as doenças sistêmicas?",
+                "palestrante": "Henrique Andrade"
             },
             {
                 "horario": "TITULO",
@@ -244,8 +249,8 @@
             },
             {
                 "horario": "",
-                "tema": "",
-                "palestrante": "A CONFIRMAR"
+                "tema": " – “O dia a dia da quiropraxia: vantagens e benefícios",
+                "palestrante": "Camila Morandini"
             }
         ]
     },
@@ -273,9 +278,24 @@
                 "palestrante": "Ana Flávia Chizzotti"
             },
             {
-                "horario": "AGUARDE",
+                "horario": "",
+                "tema": " – “Dia a dia do médico veterinário na lida com baleias Jubarte",
+                "palestrante": "Samira Costa"
+            },
+            {
+                "horario": "",
+                "tema": " – “Mamíferos Silvestres, Zoonoses e Saúde Pública",
+                "palestrante": "Ana Carolina Gomes Domingos"
+            },
+            {
+                "horario": "TITULO",
                 "tema": "",
-                "palestrante": "AGUARDE NOVIDADES"
+                "palestrante": "Palestra AO VIVO 17h"
+            },
+            {
+                "horario": "",
+                "tema": " – “Atualidades sobre o incremento da qualidade do sêmen equino! O que há de novo?",
+                "palestrante": "Maria Gazzinelli"
             },
             {
                 "horario": "TITULO",
@@ -284,8 +304,8 @@
             },
             {
                 "horario": "",
-                "tema": "",
-                "palestrante": "A CONFIRMAR"
+                "tema": " – “A atuação do Médico Veterinário na Medicina Veterinária de Desastres",
+                "palestrante": "Carla Sassi"
             }
         ]
     }

@@ -29,7 +29,6 @@ const ProgramacaoEvento = () => {
     setActive(!currentState)
     if (
       [
-        "Ana Paula Simões",
         "A CONFIRMAR",
       ].includes(p)
     ) {
@@ -132,6 +131,7 @@ const ProgramacaoEvento = () => {
                             "Palestras GRAVADAS - Disponíveis a partir das 10h",
                             "AGUARDE NOVIDADES",
                             "Palestra AO VIVO 19h",
+                            "Palestra AO VIVO 17h",
                           ].includes(palestra.palestrante) ? (
                             <S.Palestrante
                               onClick={() =>
