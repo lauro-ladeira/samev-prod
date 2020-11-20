@@ -364,7 +364,7 @@
         "especialidade": "Médica Veterinária",
         "descricao": [
             {
-                "topico": "Médica Veterinária pela Universidade Federal de Viçosa; estagiou no Programa de Desenvolvimento da Pecuária Leiteira e Programa de Capacitação de Especialistas em Pecuária Leiteira (PDPL/PCEPL), obtendo o título de especialista em pecuária leiteira, estagiou também na empresa Labor Rural. Possui o título de monitora de Controle Zootécnico do PDPL/PCEPL. Atual consultora do Educampo Leite, grupo Nestlé."
+                "topico": "INFORMAÇÕES PALESTRANTE: Médica Veterinária pela Universidade Federal de Viçosa; estagiou no Programa de Desenvolvimento da Pecuária Leiteira e Programa de Capacitação de Especialistas em Pecuária Leiteira (PDPL/PCEPL), obtendo o título de especialista em pecuária leiteira, estagiou também na empresa Labor Rural. Possui o título de monitora de Controle Zootécnico do PDPL/PCEPL. Atual consultora do Educampo Leite, grupo Nestlé."
             }
         ],
         "src": "../images/palestrantes/amanda-neri.jpg",
@@ -536,6 +536,51 @@
         "palestras": [
             {
                 "tema": "Quando decidir pelas cesarianas?"
+            }
+        ]
+    },
+    {
+        "nome": "Ana Carolina Gomes Domingos",
+        "especialidade": "Bióloga",
+        "descricao": [
+            {
+                "topico": "Bióloga graduada pela Universidade Federal de Viçosa. Atualmente é mestranda do programa de pós-graduação em Biologia Animal da UFV, além de integrar o Laboratório de Mastozoologia no Museu de Zoologia João Moojen (MZUFV), onde atua principalmente na área de mastozoologia com ênfase na taxonomia de pequenos mamíferos. É membro da Sociedade Brasileira de Zoologia (SBZ) e da Sociedade Brasileira de Mastozoologia (SBMZ). Possui experiência na curadoria de coleções científicas de zoologia e na taxidermia de mamíferos de grande e pequeno porte, além de ser idealizadora da página @Dr.Biovet, que visa a divulgação científica de conteúdos da Biologia e da Medicina Veterinária para a população."
+            }
+        ],
+        "src": "../images/palestrantes/Ana Carolina Gomes Domingos.jpg",
+        "palestras": [
+            {
+                "tema": "Mamíferos silvestres, zoonoses e saúde pública"
+            }
+        ]
+    },
+    {
+        "nome": "Aline Félix Schneider",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Graduada em Medicina Veterinária, mestra e doutora em Ciência Animal pela Universidade do Estado de Santa Catarina. Atualmente é professora adjunta da Universidade Federal de Santa Catarina nas áreas de Nutrição Animal e Produção de Suínos e Aves."
+            }
+        ],
+        "src": "../images/palestrantes/aline-felix.jpeg",
+        "palestras": [
+            {
+                "tema": "Como reduzir o impacto ambiental da avicultura via nutrição?"
+            }
+        ]
+    },
+    {
+        "nome": "Yasmin da Silva",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária pela Universidade Federal do Vale do São Francisco (UNIVASF); mestra em Ciências Veterinárias pela Universidade Federal do Paraná (UFPR); ex-bolsista de graduação sanduíche na Murdoch University, na Austrália, pelo programa Ciências Sem Fronteiras. Atualmente trabalha nas áreas de Medicina Veterinária do Coletivo e Medicina Veterinária Legal, desenvolvendo o tema Teoria do Elo."
+            }
+        ],
+        "src": "../images/palestrantes/Yasmin da Silva.jpeg",
+        "palestras": [
+            {
+                "tema": "Teoria do Elo: a conexão entre os maus tratos aos animais e a violência interpessoal"
             }
         ]
     },
