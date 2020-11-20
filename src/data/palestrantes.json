@@ -472,7 +472,7 @@
                 "topico": "Médico Veterinário e mestre em clínica e cirurgia, com linha de pesquisa em ortopedia e traumatologia pela Universidade Federal de Minas Gerais. Atualmente trabalha como cirurgião de animais silvestres e em projetos de resgate de fauna, reabilitação e na elaboração de projetos de criação e conservação de animais silvestres há mais de 10 anos. É coordenador do Programa de Resgate da Arara-azul-de-lear, projeto que visa a capacitação de populares e profissionais na área de ocorrência da espécie, além de melhorar os processos envolvidos em casos de resgates e tratamentos de araras-azuis-de-lear vítimas de ações antrópicas."
             }
         ],
-        "src": "../images/palestrantes/plinio.jpg",
+        "src": "../images/palestrantes/Plínio F. Mantovani.jpg",
         "palestras": [
             {
                 "tema": "Lesões em araras-azuis-de-lear resgatadas"
@@ -517,7 +517,7 @@
                 "topico": "Médico Veterinário e doutor em Bioquímica Agrícola pela Universidade Federal de Viçosa; pós-doutorado na escola de Medicina Veterinária em Cornell University, nos Estados Unidos; exerceu o cargo de chefe do Setor de Medicina Veterinária Preventiva e Saúde Pública do Departamento de Veterinária; foi coordenador adjunto da Rede Mineira de Biotecnologia Aplicada ao Agronegócio (RBMA-FAPEMIG); foi pesquisador do CNPq nível II na modalidade de Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora. Atualmente é professor associado, coordenador e orientador do Programa de Pós-graduação em Medicina Veterinária da Universidade Federal de Viçosa; é orientador do programa de mestrado e doutorado em Biociência Animal da Universidade de Cuiabá. É o atual coordenador do Laboratório de Imunobiológicos e Virologia Animal, presidente da Comissão de Biossegurança da UFV, pesquisador do Instituto de Biotecnologia Aplicada à Agropecuária (BIOAGRO) e pesquisador de produtividade do CNPq. Possui experiência na área de Medicina Veterinária Preventiva, com ênfase em doenças infecciosas animais, e sua linha de pesquisa envolve o desenvolvimento de produtos relacionados a vacinas veterinárias, virais e bacterianas, e estudo de viroses animais. Colabora com projetos da área de parasitas e câncer."
             }
         ],
-        "src": "../images/palestrantes/abelardo.JPG",
+        "src": "../images/palestrantes/Abelardo Silva Júnior.JPG",
         "palestras": [
             {
                 "tema": "A Medicina Veterinária na saúde pública: experiência de um Médico Veterinário no diagnóstico da COVID19"
@@ -536,81 +536,6 @@
         "palestras": [
             {
                 "tema": "Quando decidir pelas cesarianas?"
-            }
-        ]
-    },
-    {
-        "nome": "Henrique Machado",
-        "especialidade": "Médico Veterinário",
-        "descricao": [
-            {
-                "topico": "Médico Veterinário pela Faculdade de Estudos Administrativos (FEAD); pós-graduado como Cirurgião Geral pela Qualittas; pós-graduado em Gastroenterologia Anclivepa. Atualmente é membro da Sociedade Latinoamericana de Endoscopia Veterinária (SLEV), além de atuar em endoscopia digestiva, endoscopia respiratória e gastroenterologia clínica."
-            }
-        ],
-        "src": "../images/palestrantes/Henrique Machado.jpg",
-        "palestras": [
-            {
-                "tema": "Endoscopia digestiva e respiratória na clínica de pequenos animais"
-            }
-        ]
-    },
-    {
-        "nome": "Henrique Augusto Souza Andrade",
-        "especialidade": "Médico Veterinário",
-        "descricao": [
-            {
-                "topico": "Médico Veterinário pela Universidade Federal de Lavras (UFLA); residência em Clínica Médica de Animais de Companhia pela UFLA; pós-graduado em Medicina Veterinária Intensiva pelo Instituto PAV. Atualmente é mestrando em Ciências Veterinárias com pesquisa em Cardiologia Veterinária pela UFLA e atua como Médico Veterinário plantonista do serviço de Telemedicina da Intensivet Saúde Digital."
-            }
-        ],
-        "src": "../images/palestrantes/Henrique Andrade.jpeg",
-        "palestras": [
-            {
-                "tema": "O que o eletrocardiograma diz sobre as doenças sistêmicas?"
-            }
-        ]
-    },
-    {
-        "nome": "Ana Carolina Gomes Domingos",
-        "especialidade": "Bióloga",
-        "descricao": [
-            {
-                "topico": "Bióloga graduada pela Universidade Federal de Viçosa. Atualmente é mestranda do programa de pós-graduação em Biologia Animal da UFV, além de integrar o Laboratório de Mastozoologia no Museu de Zoologia João Moojen (MZUFV), onde atua principalmente na área de mastozoologia com ênfase na taxonomia de pequenos mamíferos. É membro da Sociedade Brasileira de Zoologia (SBZ) e da Sociedade Brasileira de Mastozoologia (SBMZ). Possui experiência na curadoria de coleções científicas de zoologia e na taxidermia de mamíferos de grande e pequeno porte, além de ser idealizadora da página @Dr.Biovet, que visa a divulgação científica de conteúdos da Biologia e da Medicina Veterinária para a população."
-            }
-        ],
-        "src": "../images/palestrantes/Ana Carolina Gomes Domingos.jpg",
-        "palestras": [
-            {
-                "tema": "Mamíferos silvestres, zoonoses e saúde pública"
-            }
-        ]
-    },
-    {
-        "nome": "Aline Félix Schneider",
-        "especialidade": "Médica Veterinária",
-        "descricao": [
-            {
-                "topico": "Graduada em Medicina Veterinária, mestra e doutora em Ciência Animal pela Universidade do Estado de Santa Catarina. Atualmente é professora adjunta da Universidade Federal de Santa Catarina nas áreas de Nutrição Animal e Produção de Suínos e Aves."
-            }
-        ],
-        "src": "../images/palestrantes/aline-felix.jpeg",
-        "palestras": [
-            {
-                "tema": "Como reduzir o impacto ambiental da avicultura via nutrição?"
-            }
-        ]
-    },
-    {
-        "nome": "Yasmin da Silva",
-        "especialidade": "Médica Veterinária",
-        "descricao": [
-            {
-                "topico": "Médica Veterinária pela Universidade Federal do Vale do São Francisco (UNIVASF); mestra em Ciências Veterinárias pela Universidade Federal do Paraná (UFPR); ex-bolsista de graduação sanduíche na Murdoch University, na Austrália, pelo programa Ciências Sem Fronteiras. Atualmente trabalha nas áreas de Medicina Veterinária do Coletivo e Medicina Veterinária Legal, desenvolvendo o tema Teoria do Elo."
-            }
-        ],
-        "src": "../images/palestrantes/Yasmin da Silva.jpeg",
-        "palestras": [
-            {
-                "tema": "Teoria do Elo: a conexão entre os maus tratos aos animais e a violência interpessoal"
             }
         ]
     },
