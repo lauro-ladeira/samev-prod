@@ -30,7 +30,6 @@ const ProgramacaoEvento = () => {
     if (
       [
         "Ana Paula Simões",
-        "Henrique Machado",
         "A CONFIRMAR",
       ].includes(p)
     ) {

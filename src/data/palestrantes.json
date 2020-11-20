@@ -540,6 +540,36 @@
         ]
     },
     {
+        "nome": "Henrique Machado",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário pela Faculdade de Estudos Administrativos (FEAD); pós-graduado como Cirurgião Geral pela Qualittas; pós-graduado em Gastroenterologia Anclivepa. Atualmente é membro da Sociedade Latinoamericana de Endoscopia Veterinária (SLEV), além de atuar em endoscopia digestiva, endoscopia respiratória e gastroenterologia clínica."
+            }
+        ],
+        "src": "../images/palestrantes/Henrique Machado.jpg",
+        "palestras": [
+            {
+                "tema": "Endoscopia digestiva e respiratória na clínica de pequenos animais"
+            }
+        ]
+    },
+    {
+        "nome": "Henrique Augusto Souza Andrade",
+        "especialidade": "Médico Veterinário",
+        "descricao": [
+            {
+                "topico": "Médico Veterinário pela Universidade Federal de Lavras (UFLA); residência em Clínica Médica de Animais de Companhia pela UFLA; pós-graduado em Medicina Veterinária Intensiva pelo Instituto PAV. Atualmente é mestrando em Ciências Veterinárias com pesquisa em Cardiologia Veterinária pela UFLA e atua como Médico Veterinário plantonista do serviço de Telemedicina da Intensivet Saúde Digital."
+            }
+        ],
+        "src": "../images/palestrantes/Henrique Andradre.jpeg",
+        "palestras": [
+            {
+                "tema": "O que o eletrocardiograma diz sobre as doenças sistêmicas?"
+            }
+        ]
+    },
+    {
         "nome": "Ana Carolina Gomes Domingos",
         "especialidade": "Bióloga",
         "descricao": [
