@@ -405,6 +405,21 @@
         ]
     },
     {
+        "nome": "Camila Morandini",
+        "especialidade": "Médica Veterinária",
+        "descricao": [
+            {
+                "topico": "Médica Veterinária graduada pela Universidade Federal de Santa Maria, no Rio Grande do Sul; doutora em Reprodução Equina pela Universidade de Hannover, na Alemanha; especializada em Quiropraxia Veterinária pela Academia Internacional de Quiropraxia Veterinária – Options for Animals em Sittensen, Alemanha; pós-graduada em Neurologia Funcional pelo Carrick Institute em São Paulo; e pós-graduação em Quiropraxia Animal pela Health Pioneers Institute, em Naperville, nos Estados Unidos da América. Possui certificação em Kinesio Taping, pelo Curso Oficial da Associação Internacional Kinesio Taping, em Boituva, e em Applied Kinesiology pela Health Pioneers Institute em Naperville; Atualmente é coordenadora e professora titular do Curso Internacional de Quiropraxia Veterinária pela HealingVet, em Sorocaba."
+            }
+        ],
+        "src": "../images/palestrantes/Camila Morandini.jpeg",
+        "palestras": [
+            {
+                "tema": "O dia a dia da quiropraxia: vantagens e benefícios"
+            }
+        ]
+    },
+    {
         "nome": "Carine Stefanello",
         "especialidade": "Médica Veterinária",
         "descricao": [

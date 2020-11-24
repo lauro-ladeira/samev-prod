@@ -102,7 +102,8 @@ export const ResumosContainer = styled.div`
     width: calc(85% + 20px);
   `}
 `
-export const Card = styled.div`
+export const Card = styled(Link)`
+  text-decoration: none;
   cursor: pointer;
   display: flex;
   justify-content: space-between;
