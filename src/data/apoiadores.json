@@ -12,6 +12,12 @@
         "link": "https://revistaclinicaveterinaria.com.br/"
     },
     {
+        "name": "pandora",
+        "src": "../images/photos/pandora.jpeg",
+        "size": 1,
+        "link": ""
+    },
+    {
         "name": "ufv",
         "src": "../images/photos/ufv_apoiador.png",
         "size": 3,
