@@ -46,10 +46,10 @@ const Navbar = () => {
           <S.MenuItem>
             <S.MenuLink to="/inscricao" activeClassName="active">Inscrição</S.MenuLink>
           </S.MenuItem>
-          <S.MenuItem>
+          {/* <S.MenuItem>
             <S.MenuLink to="/resumos" activeClassName="active">Resumos</S.MenuLink>
           </S.MenuItem>
-          {/* <S.MenuItem>
+          <S.MenuItem>
             <S.MenuLink to="/contato" activeClassName="active">Contato</S.MenuLink>
           </S.MenuItem> */}
         </S.MenuContainer>
