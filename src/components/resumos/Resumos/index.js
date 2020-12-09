@@ -42,9 +42,9 @@ const Resumos = () => {
             Modelo de Painel
           </S.Button>
         </S.ButtonsContainer>
-        <S.Title>Painéis</S.Title>
+{/*         <S.Title>Painéis</S.Title> */}
       </S.Container>
-      <S.ResumosContainer>
+{/*       <S.ResumosContainer>
         {resumos.map(el => {
           return (
             <S.Card
@@ -65,7 +65,7 @@ const Resumos = () => {
             </S.Card>
           )
         })}
-      </S.ResumosContainer>
+      </S.ResumosContainer> */}
     </S.Wrapper>
   )
 }
